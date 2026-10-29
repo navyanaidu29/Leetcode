@@ -46,4 +46,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/navyanaidu29/Leetcode/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/navyanaidu29/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
