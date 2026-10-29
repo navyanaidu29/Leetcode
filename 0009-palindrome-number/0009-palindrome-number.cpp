@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        // Negative numbers and numbers ending in 0 (except 0 itself) are not palindromes
+        // Negative numbers and numbers ending in 0 (except 0 itself) cannot be palindromes
         if (x < 0 || (x % 10 == 0 && x != 0)) {
             return false;
         }
@@ -12,9 +12,9 @@ public:
             x /= 10;
         }
 
-        // When the length is an odd number, we can get rid of the middle digit by reversedHalf / 10
-        // For example, when x = 12321, at the end of the loop we get x = 12, reversedHalf = 123
-        // We compare 12 with 123 / 10 = 12
+        // Compare the first half with the reversed second half
+        // x == reversedHalf handles even-length numbers (e.g., 1221)
+        // x == reversedHalf / 10 handles odd-length numbers (e.g., 12321)
         return x == reversedHalf || x == reversedHalf / 10;
     }
 };   
