@@ -13,6 +13,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/navyanaidu29/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/navyanaidu29/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/navyanaidu29/Leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/navyanaidu29/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
@@ -57,8 +58,13 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/navyanaidu29/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/navyanaidu29/Leetcode/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/navyanaidu29/Leetcode/tree/master/0412-fizz-buzz) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/navyanaidu29/Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/navyanaidu29/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
