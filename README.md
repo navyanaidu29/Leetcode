@@ -58,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/navyanaidu29/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/navyanaidu29/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/navyanaidu29/Leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/navyanaidu29/Leetcode/tree/master/0412-fizz-buzz) |
@@ -73,4 +74,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/navyanaidu29/Leetcode/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/navyanaidu29/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/navyanaidu29/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
