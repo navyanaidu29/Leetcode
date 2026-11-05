@@ -6,6 +6,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/navyanaidu29/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/navyanaidu29/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/navyanaidu29/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/navyanaidu29/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/navyanaidu29/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## String
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/navyanaidu29/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/navyanaidu29/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/navyanaidu29/Leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/navyanaidu29/Leetcode/tree/master/0912-sort-an-array) |
 ## Binary Search
