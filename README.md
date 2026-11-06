@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/navyanaidu29/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/navyanaidu29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/navyanaidu29/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/navyanaidu29/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/navyanaidu29/Leetcode/tree/master/0704-binary-search) |
@@ -38,6 +39,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/navyanaidu29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/navyanaidu29/Leetcode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/navyanaidu29/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/navyanaidu29/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -80,6 +82,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/navyanaidu29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/navyanaidu29/Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
