@@ -9,6 +9,7 @@
 | [0283-move-zeroes](https://github.com/navyanaidu29/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/navyanaidu29/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/navyanaidu29/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/navyanaidu29/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0485-max-consecutive-ones](https://github.com/navyanaidu29/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/navyanaidu29/Leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/navyanaidu29/Leetcode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/navyanaidu29/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/navyanaidu29/Leetcode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/navyanaidu29/Leetcode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/navyanaidu29/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
