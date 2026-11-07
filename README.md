@@ -24,6 +24,7 @@
 | [0136-single-number](https://github.com/navyanaidu29/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/navyanaidu29/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/navyanaidu29/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/navyanaidu29/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/navyanaidu29/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/navyanaidu29/Leetcode/tree/master/0704-binary-search) |
@@ -32,6 +33,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/navyanaidu29/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -42,6 +44,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/navyanaidu29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/navyanaidu29/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/navyanaidu29/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/navyanaidu29/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -71,6 +74,7 @@
 | [0007-reverse-integer](https://github.com/navyanaidu29/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/navyanaidu29/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/navyanaidu29/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/navyanaidu29/Leetcode/tree/master/0412-fizz-buzz) |
 ## Greedy
 |  |
@@ -85,6 +89,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/navyanaidu29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/navyanaidu29/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -97,4 +102,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/navyanaidu29/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
