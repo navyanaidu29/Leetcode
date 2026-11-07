@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/navyanaidu29/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/navyanaidu29/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/navyanaidu29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/navyanaidu29/Leetcode/tree/master/0283-move-zeroes) |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/navyanaidu29/Leetcode/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/navyanaidu29/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
