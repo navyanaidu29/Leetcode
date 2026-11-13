@@ -27,6 +27,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navyanaidu29/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/navyanaidu29/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/navyanaidu29/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/navyanaidu29/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/navyanaidu29/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/navyanaidu29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
@@ -43,11 +44,13 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/navyanaidu29/Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/navyanaidu29/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/navyanaidu29/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/navyanaidu29/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/navyanaidu29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/navyanaidu29/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
@@ -72,6 +75,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/navyanaidu29/Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/navyanaidu29/Leetcode/tree/master/0912-sort-an-array) |
 ## Math
 |  |
@@ -93,6 +97,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/navyanaidu29/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/navyanaidu29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/navyanaidu29/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
@@ -109,4 +114,8 @@
 | ------- |
 | [0136-single-number](https://github.com/navyanaidu29/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/navyanaidu29/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
