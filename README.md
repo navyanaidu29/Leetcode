@@ -26,6 +26,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navyanaidu29/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/navyanaidu29/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/navyanaidu29/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/navyanaidu29/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navyanaidu29/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/navyanaidu29/Leetcode/tree/master/0136-single-number) |
@@ -86,6 +87,7 @@
 | [0002-add-two-numbers](https://github.com/navyanaidu29/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/navyanaidu29/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/navyanaidu29/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/navyanaidu29/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/navyanaidu29/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/navyanaidu29/Leetcode/tree/master/0412-fizz-buzz) |
