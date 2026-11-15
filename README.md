@@ -37,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/navyanaidu29/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/navyanaidu29/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/navyanaidu29/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/navyanaidu29/Leetcode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/navyanaidu29/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/navyanaidu29/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -127,4 +128,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navyanaidu29/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/navyanaidu29/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
