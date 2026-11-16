@@ -19,6 +19,7 @@
 | [0125-valid-palindrome](https://github.com/navyanaidu29/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/navyanaidu29/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/navyanaidu29/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/navyanaidu29/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/navyanaidu29/Leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/navyanaidu29/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Array
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/navyanaidu29/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/navyanaidu29/Leetcode/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/navyanaidu29/Leetcode/tree/master/0912-sort-an-array) |
 ## Math
 |  |
@@ -107,6 +109,7 @@
 | [0217-contains-duplicate](https://github.com/navyanaidu29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/navyanaidu29/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/navyanaidu29/Leetcode/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
 | ------- |
