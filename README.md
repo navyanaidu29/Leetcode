@@ -47,6 +47,7 @@
 | [0724-find-pivot-index](https://github.com/navyanaidu29/Leetcode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/navyanaidu29/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/navyanaidu29/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1512-number-of-good-pairs](https://github.com/navyanaidu29/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0383-ransom-note](https://github.com/navyanaidu29/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/navyanaidu29/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/navyanaidu29/Leetcode/tree/master/0912-sort-an-array) |
+| [1512-number-of-good-pairs](https://github.com/navyanaidu29/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0189-rotate-array](https://github.com/navyanaidu29/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/navyanaidu29/Leetcode/tree/master/0412-fizz-buzz) |
+| [1512-number-of-good-pairs](https://github.com/navyanaidu29/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 | [0383-ransom-note](https://github.com/navyanaidu29/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/navyanaidu29/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/navyanaidu29/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/navyanaidu29/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
