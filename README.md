@@ -41,6 +41,7 @@
 | [0217-contains-duplicate](https://github.com/navyanaidu29/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/navyanaidu29/Leetcode/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/navyanaidu29/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/navyanaidu29/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/navyanaidu29/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/navyanaidu29/Leetcode/tree/master/0724-find-pivot-index) |
@@ -117,6 +118,7 @@
 | [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/navyanaidu29/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/navyanaidu29/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/navyanaidu29/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Linked List
 |  |
 | ------- |
