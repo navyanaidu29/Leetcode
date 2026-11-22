@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/navyanaidu29/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/navyanaidu29/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/navyanaidu29/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -103,6 +104,7 @@
 | [0007-reverse-integer](https://github.com/navyanaidu29/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/navyanaidu29/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/navyanaidu29/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/navyanaidu29/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/navyanaidu29/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/navyanaidu29/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/navyanaidu29/Leetcode/tree/master/0412-fizz-buzz) |
@@ -181,4 +183,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/navyanaidu29/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/navyanaidu29/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
